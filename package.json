@@ -1,0 +1,53 @@
+{
+
+  "name": "Miku-Md",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "@adiwajshing/baileys": "^4.4.0",
+    
+     "axios": "^0.24.0",
+
+    "child_process": "^1.0.2",
+    
+    "countapi-js": "^1.0.2",
+
+    "express": "^4.18.1",
+
+    "pastebin-js": "^1.0.6",
+    
+     "node-fetch": "^2.6.1",
+
+    "pino": "^8.1.0",
+
+    "qrcode": "^1.5.0",
+
+    "serve-favicon": "^2.5.0",
+    
+    "qrcode-terminal": "^0.12.0",
+
+    "socket.io": "^4.5.1",
+    
+    "util": "^0.12.4"
+
+  }
+
+}
